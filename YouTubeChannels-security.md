@@ -3,6 +3,7 @@
  - [Black Hat](http://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
  - [Career Hacking Village](http://www.youtube.com/channel/UCxF_PpndJEoi4fsrQx6yuQw)
  - [CBI](http://www.youtube.com/channel/UCxWTRqfsG9u3NrAxNGFRl4Q)
+ - [Channel2600](https://www.youtube.com/user/Channel2600)
  - [Check Point Software Technologies, Ltd.](http://www.youtube.com/channel/UCXnlgfiXZQm1sbxMzU-8ZKA)
  - [Check Point Training Bytes](http://www.youtube.com/channel/UCYT04OmmaByUlrRjn7tpqrA)
  - [CIOclassroom](http://www.youtube.com/channel/UCWfCS-st73X3K-Tb4zEIAhg)
