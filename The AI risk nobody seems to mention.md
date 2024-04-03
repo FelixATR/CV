@@ -1,4 +1,4 @@
-The AI risk nobody seems to mention
+The AI Risk Nobody Seems to Mention
 by Felix Atter
 
 Its coming for our jobs!!
