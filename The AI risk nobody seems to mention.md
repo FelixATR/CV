@@ -2,7 +2,7 @@ The AI Risk Nobody Seems to Mention
 by Felix Atter
 
 Its coming for our jobs!!
-Its going to start skynet!!
+Its going to start Skynet!!
 Its a threat to our privacy!!
 
 We have all heard the big scary talk about artificial intelligence (AI). I opened with the three I hear most often and each of these can be partially or completely eliminated as a risk if managed properly. I can dive into them but many other articles from many other organizations have done so extensively. 
