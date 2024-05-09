@@ -54,3 +54,4 @@
  - [Shank Mods](http://www.youtube.com/channel/UCUCo_G9HneFK4Luncw6v-Bw)
  - [Sumsub](http://www.youtube.com/channel/UCVraU9wuIQr8H1B0kcUD7Tw)
  - [The PC Security Channel](http://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg)
+ - [Palo Alto Networks Prisma Cloud](https://www.youtube.com/@prismacloud)
