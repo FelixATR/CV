@@ -28,3 +28,7 @@ input[type="button"] {
 .column {
   flex: 50%;
 }
+
+p.ex1 {
+  max-width: 150px;
+}
