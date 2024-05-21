@@ -29,6 +29,6 @@ input[type="button"] {
   flex: 50%;
 }
 
-p.ex1 {
-  max-width: 150px;
+p {
+  max-width: 700px;
 }
